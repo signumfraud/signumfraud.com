@@ -17,3 +17,5 @@ Again last weekend, played [Minecraft](https://www.minecraft.net/en-us) for the 
 Lastly, I poked [git](https://git-scm.com/) a little. It's complicated if I understand right. I just read a few page from [Pro Git Book](https://git-scm.com/book/en/v2) but maybe I should look for easier entryways.
 
 Thank you for reading!
+
+**Edit:** *Somehow, I managed to use git after an hour and deployed this site via Github to Cloudflare! Hehe, cya all for now.*
