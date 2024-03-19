@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modem &amp; Reboot</title>
-    <link>http://localhost:1313/</link>
+    <link>https://signumfraud.pages.dev/</link>
     <description>Recent content on Modem &amp; Reboot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Mar 2024 14:37:46 +0300</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://signumfraud.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
       <title>Next Steps</title>
-      <link>http://localhost:1313/next-steps/</link>
+      <link>https://signumfraud.pages.dev/next-steps/</link>
       <pubDate>Wed, 20 Mar 2024 00:56:17 +0300</pubDate>
       
-      <guid>http://localhost:1313/next-steps/</guid>
+      <guid>https://signumfraud.pages.dev/next-steps/</guid>
       <description>&lt;p&gt;Hello again, dears.&lt;/p&gt;
 &lt;p&gt;Last week, I finished &lt;a href=&#34;https://www.freecodecamp.org/&#34;&gt;FreeCodeCamp&lt;/a&gt; Responsive Web Design course&amp;rsquo;s first section and built a simple survey as a certification project. No &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS&#34;&gt;CSS&lt;/a&gt; code demanded, so I didn&amp;rsquo;t bother with it, just completed the form in &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/HTML&#34;&gt;HTML&lt;/a&gt; and earned my first certificate.&lt;/p&gt;
 &lt;p&gt;Honestly, because of curriculum I was hoping a little more complicated certificate project. I can understand there&amp;rsquo;s not much quirky things with plain HTML, some basic understanding about tags and attributes solves the most of entry-level problems but maybe they can demand a little more challenging things, especially some CSS knowledge would be nice (the only thing they demands linking a css file to html file) and lessons already contains nice amount of information about basic CSS.&lt;/p&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>Another Day</title>
-      <link>http://localhost:1313/another-day/</link>
+      <link>https://signumfraud.pages.dev/another-day/</link>
       <pubDate>Tue, 12 Mar 2024 02:28:42 +0300</pubDate>
       
-      <guid>http://localhost:1313/another-day/</guid>
+      <guid>https://signumfraud.pages.dev/another-day/</guid>
       <description>&lt;p&gt;Hello, again.&lt;/p&gt;
 &lt;p&gt;I finished third chapter of &lt;a href=&#34;https://freecodecamp.org/&#34;&gt;FreeCodeCamp&lt;/a&gt;&amp;rsquo;s web design course. It was solely about colours and honestly was a bit boring but an easy achievement, anyway.&lt;/p&gt;
 &lt;p&gt;And yes, I changed my &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt; theme &lt;a href=&#34;https://github.com/joeroe/risotto&#34;&gt;risotto&lt;/a&gt; to &lt;a href=&#34;https://github.com/LukasJoswiak/etch&#34;&gt;etch&lt;/a&gt;. This one is more minimal and easy-to-read, at least for me and my eyes. Besides technically less moving parts; no &lt;a href=&#34;https://en.wikipedia.org/wiki/JavaScript&#34;&gt;JavaScript&lt;/a&gt;, no &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts&#34;&gt;web fonts&lt;/a&gt; and icons, etc. I lost personal information area which was in right panel but not a problem, I added a contact page specially for these information.&lt;/p&gt;
@@ -52,10 +52,10 @@
     
     <item>
       <title>Second Day</title>
-      <link>http://localhost:1313/second-day/</link>
+      <link>https://signumfraud.pages.dev/second-day/</link>
       <pubDate>Thu, 07 Mar 2024 21:25:11 +0300</pubDate>
       
-      <guid>http://localhost:1313/second-day/</guid>
+      <guid>https://signumfraud.pages.dev/second-day/</guid>
       <description>&lt;p&gt;Today I finished second section of &lt;a href=&#34;&#34;&gt;FreeCodeCamp&lt;/a&gt;&amp;rsquo;s Responsive Web Design course and the task was building a cafe menu. I learnt about &lt;code&gt;&amp;lt;style&amp;gt;&lt;/code&gt; tag, referring &lt;code&gt;.css&lt;/code&gt; files from &lt;code&gt;.html&lt;/code&gt;, comments, selectors (id, class, etc.), font properties and text formatting, margins and padding and something more I didn&amp;rsquo;t remember at the moment. I think this is a productive day, I hope I can keep this tempo in the upcoming days.&lt;/p&gt;
 &lt;p&gt;Also today I learned about &lt;a href=&#34;https://www.markdownguide.org/&#34;&gt;markdown&lt;/a&gt; a bit, obviously because of &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt; and updated my first post and about page, added links.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s all folks, thank you for reading!&lt;/p&gt;
@@ -66,10 +66,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/hello-world/</link>
+      <link>https://signumfraud.pages.dev/hello-world/</link>
       <pubDate>Wed, 06 Mar 2024 14:46:12 +0300</pubDate>
       
-      <guid>http://localhost:1313/hello-world/</guid>
+      <guid>https://signumfraud.pages.dev/hello-world/</guid>
       <description>&lt;p&gt;As an aspiring programmer, I couldn&amp;rsquo;t think of more cliche expression other than &amp;ldquo;hello world&amp;rdquo; for a title of first post.&lt;/p&gt;
 &lt;p&gt;I am not a CS student, neither an engineer nor working on tech related job. Somehow I got the idea that computing and programming were fun things. So, I made some research and nowadays trying to learn basics.&lt;/p&gt;
 &lt;p&gt;I just finished first section of &lt;a href=&#34;https://freecodecamp.org/&#34;&gt;FreeCodeCamp&lt;/a&gt;&amp;rsquo;s Responsive Web Design course. I think I know a few things about HTML now and I&amp;rsquo;ll start next section after completed my drudgery with this website.&lt;/p&gt;

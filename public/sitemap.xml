@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/next-steps/</loc>
+    <loc>https://signumfraud.pages.dev/next-steps/</loc>
     <lastmod>2024-03-20T00:56:17+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://signumfraud.pages.dev/posts/</loc>
     <lastmod>2024-03-20T00:56:17+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/another-day/</loc>
+    <loc>https://signumfraud.pages.dev/another-day/</loc>
     <lastmod>2024-03-12T02:28:42+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/second-day/</loc>
+    <loc>https://signumfraud.pages.dev/second-day/</loc>
     <lastmod>2024-03-07T21:25:11+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hello-world/</loc>
+    <loc>https://signumfraud.pages.dev/hello-world/</loc>
     <lastmod>2024-03-06T14:46:12+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://signumfraud.pages.dev/</loc>
     <lastmod>2024-03-06T14:37:46+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://signumfraud.pages.dev/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://signumfraud.pages.dev/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://signumfraud.pages.dev/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://signumfraud.pages.dev/tags/</loc>
   </url>
 </urlset>
