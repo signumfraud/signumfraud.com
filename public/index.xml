@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modem &amp; Reboot</title>
-    <link>http://localhost:1313/</link>
+    <link>https://signumfraud.pages.dev/</link>
     <description>Recent content on Modem &amp; Reboot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Mar 2024 14:37:46 +0300</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://signumfraud.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
       <title>Another Day</title>
-      <link>http://localhost:1313/another-day/</link>
+      <link>https://signumfraud.pages.dev/another-day/</link>
       <pubDate>Tue, 12 Mar 2024 02:28:42 +0300</pubDate>
       
-      <guid>http://localhost:1313/another-day/</guid>
+      <guid>https://signumfraud.pages.dev/another-day/</guid>
       <description>&lt;p&gt;Hello, again.&lt;/p&gt;
 &lt;p&gt;I finished third chapter of &lt;a href=&#34;https://freecodecamp.org/&#34;&gt;FreeCodeCamp&lt;/a&gt;&amp;rsquo;s web design course. It was solely about colours and honestly was a bit boring but an easy achievement, anyway.&lt;/p&gt;
 &lt;p&gt;And yes, I changed my &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt; theme &lt;a href=&#34;https://github.com/joeroe/risotto&#34;&gt;risotto&lt;/a&gt; to &lt;a href=&#34;https://github.com/LukasJoswiak/etch&#34;&gt;etch&lt;/a&gt;. This one is more minimal and easy-to-read, at least for me and my eyes. Besides technically less moving parts; no &lt;a href=&#34;https://en.wikipedia.org/wiki/JavaScript&#34;&gt;JavaScript&lt;/a&gt;, no &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts&#34;&gt;web fonts&lt;/a&gt; and icons, etc. I lost personal information area which was in right panel but not a problem, I added a contact page specially for these information.&lt;/p&gt;
@@ -25,6 +25,7 @@
 &lt;p&gt;Again last weekend, played &lt;a href=&#34;https://www.minecraft.net/en-us&#34;&gt;Minecraft&lt;/a&gt; for the first time ever. Of course I heard it and watched some crazy videos. But until &lt;a href=&#34;https://play.google.com/&#34;&gt;Google Play&lt;/a&gt; gifted it&amp;rsquo;s mobile version with my new &lt;a href=&#34;https://www.google.com/chromebook/&#34;&gt;Chromebook&lt;/a&gt; never tried before. It is a good sandbox game but maybe too grindy for me (yes, a guy shoved thousands of hours to online games wrote this sentence).&lt;/p&gt;
 &lt;p&gt;Lastly, I poked &lt;a href=&#34;https://git-scm.com/&#34;&gt;git&lt;/a&gt; a little. It&amp;rsquo;s complicated if I understand right. I just read a few page from &lt;a href=&#34;https://git-scm.com/book/en/v2&#34;&gt;Pro Git Book&lt;/a&gt; but maybe I should look for easier entryways.&lt;/p&gt;
 &lt;p&gt;Thank you for reading!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edit:&lt;/strong&gt; &lt;em&gt;Somehow, I managed to use git after an hour and deployed this site via Github to Cloudflare! Hehe, cya all for now.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -32,10 +33,10 @@
     
     <item>
       <title>Second Day</title>
-      <link>http://localhost:1313/second-day/</link>
+      <link>https://signumfraud.pages.dev/second-day/</link>
       <pubDate>Thu, 07 Mar 2024 21:25:11 +0300</pubDate>
       
-      <guid>http://localhost:1313/second-day/</guid>
+      <guid>https://signumfraud.pages.dev/second-day/</guid>
       <description>&lt;p&gt;Today I finished second section of &lt;a href=&#34;&#34;&gt;FreeCodeCamp&lt;/a&gt;&amp;rsquo;s Responsive Web Design course and the task was building a cafe menu. I learnt about &lt;code&gt;&amp;lt;style&amp;gt;&lt;/code&gt; tag, referring &lt;code&gt;.css&lt;/code&gt; files from &lt;code&gt;.html&lt;/code&gt;, comments, selectors (id, class, etc.), font properties and text formatting, margins and padding and something more I didn&amp;rsquo;t remember at the moment. I think this is a productive day, I hope I can keep this tempo in the upcoming days.&lt;/p&gt;
 &lt;p&gt;Also today I learned about &lt;a href=&#34;https://www.markdownguide.org/&#34;&gt;markdown&lt;/a&gt; a bit, obviously because of &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt; and updated my first post and about page, added links.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s all folks, thank you for reading!&lt;/p&gt;
@@ -46,10 +47,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/hello-world/</link>
+      <link>https://signumfraud.pages.dev/hello-world/</link>
       <pubDate>Wed, 06 Mar 2024 14:46:12 +0300</pubDate>
       
-      <guid>http://localhost:1313/hello-world/</guid>
+      <guid>https://signumfraud.pages.dev/hello-world/</guid>
       <description>&lt;p&gt;As an aspiring programmer, I couldn&amp;rsquo;t think of more cliche expression other than &amp;ldquo;hello world&amp;rdquo; for a title of first post.&lt;/p&gt;
 &lt;p&gt;I am not a CS student, neither an engineer nor working on tech related job. Somehow I got the idea that computing and programming were fun things. So, I made some research and nowadays trying to learn basics.&lt;/p&gt;
 &lt;p&gt;I just finished first section of &lt;a href=&#34;https://freecodecamp.org/&#34;&gt;FreeCodeCamp&lt;/a&gt;&amp;rsquo;s Responsive Web Design course. I think I know a few things about HTML now and I&amp;rsquo;ll start next section after completed my drudgery with this website.&lt;/p&gt;
