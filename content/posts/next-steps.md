@@ -1,7 +1,7 @@
 +++
 title = 'Next Steps'
 date = 2024-03-20T00:56:17+03:00
-draft = true
+draft = false
 +++
 
 Hello again, dears.
