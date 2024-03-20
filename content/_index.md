@@ -6,4 +6,4 @@ draft = false
 
 Welcome to the my personal homepage.
 
-It is still under construction but I am blogging *almost* daily. 
+It is still under construction but I am blogging *almost* regularly. 
