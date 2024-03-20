@@ -7,11 +7,6 @@ body {
     background: #000000;
 }
 
-header#banner a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
 header#banner nav ul li a {
     color: #ffffff;
 }
