@@ -74,6 +74,7 @@ main#content h6 + p {
 main#content p {
     color: #000000;
     margin: 16px 0;
+    text-align: justify;
 }
 
 main#content hr {
